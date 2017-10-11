@@ -1,0 +1,1 @@
+Syncing the local folder to the S3 bucket
